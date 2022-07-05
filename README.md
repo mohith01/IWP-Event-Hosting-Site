@@ -1,4 +1,8 @@
-# IWP-Event-Hosting-Site
+# Event-Hosting-Site 
+
+CSE3002 - Internet and Web Programming Project,
+May 2020
+
 
 ## ABSTRACT
 To create a functional Contest hosting website using Django that can
